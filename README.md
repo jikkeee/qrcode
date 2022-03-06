@@ -51,5 +51,5 @@ I'm getting comfortable wih css flexbox and I intend to advance to css grid soon
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jikkeee](https://www.frontendmentor.io/profile/jikkeee)
 - Twitter - [@jaekralj](https://www.twitter.com/jaekralj)
